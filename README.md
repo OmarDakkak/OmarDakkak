@@ -110,21 +110,23 @@ fun_fact: "NaN3rd = Not a Nerd... or so I keep telling myself 😏"
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarDakkak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Achievement-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤠_YOLO-Achievement-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧊_Arctic_Code_Vault-Contributor-cyan?style=for-the-badge" />
 </p>
-
-<!-- If trophies don't load, the public instance may be rate-limited. You can deploy your own: https://github.com/ryo-ma/github-profile-trophy -->
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/OmarDakkak/OmarDakkak/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarDakkak/OmarDakkak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarDakkak/OmarDakkak/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/OmarDakkak/OmarDakkak/output/github-snake.svg" />
+</picture>
 
 <br/>
 
