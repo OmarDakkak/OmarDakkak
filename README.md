@@ -36,6 +36,8 @@ education:
   - EILCO (École d'Ingénieurs du Littoral Côte d'Opale)
   - ENSAH (École Nationale des Sciences Appliquées d'Al Hoceima)
 
+favorite_language: Python 🐍
+
 fields_of_interest:
   - Data Engineering & Data Science
   - DevOps & Cloud Infrastructure
@@ -44,7 +46,7 @@ fields_of_interest:
   - Cybersecurity
 
 currently_working_on: KubeClueless 🧭 & SRE Autonomous Agent 🤖
-fun_fact: "I named myself NaN3rd because I'm Not a Number... but definitely a Nerd"
+fun_fact: "NaN3rd = Not a Nerd... or so I keep telling myself 😏"
 ```
 
 <br/>
@@ -93,12 +95,17 @@ fun_fact: "I named myself NaN3rd because I'm Not a Number... but definitely a Ne
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmarDakkak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarDakkak&theme=tokyonight" alt="Omar's GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarDakkak&theme=tokyonight&hide_border=true" alt="Omar's Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDakkak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarDakkak&theme=tokyonight" alt="Contribution Graph" width="98%" />
 </p>
 
 <br/>
@@ -106,8 +113,10 @@ fun_fact: "I named myself NaN3rd because I'm Not a Number... but definitely a Ne
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarDakkak&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarDakkak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </p>
+
+<!-- If trophies don't load, the public instance may be rate-limited. You can deploy your own: https://github.com/ryo-ma/github-profile-trophy -->
 
 <br/>
 
@@ -121,22 +130,36 @@ fun_fact: "I named myself NaN3rd because I'm Not a Number... but definitely a Ne
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/OmarDakkak/KubeClueless">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarDakkak&repo=KubeClueless&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/OmarDakkak/sre-autonomous-agent">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarDakkak&repo=sre-autonomous-agent&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/OmarDakkak/VulnScan">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarDakkak&repo=VulnScan&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/OmarDakkak/React-Tetris">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarDakkak&repo=React-Tetris&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/OmarDakkak/KubeClueless">
+        <img src="https://img.shields.io/badge/🧭_KubeClueless-Your_K8s_Guide-326CE5?style=for-the-badge" />
+      </a>
+      <br/><sub>Lost in Kubernetes? Your friendly guide from newbie to K8s pro!</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/OmarDakkak/sre-autonomous-agent">
+        <img src="https://img.shields.io/badge/🤖_SRE_Agent-Autonomous_SRE-FF6B6B?style=for-the-badge" />
+      </a>
+      <br/><sub>Autonomous Site Reliability Engineering agent powered by AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/OmarDakkak/VulnScan">
+        <img src="https://img.shields.io/badge/🔍_VulnScan-Security_Scanner-critical?style=for-the-badge" />
+      </a>
+      <br/><sub>Vulnerability scanning tool built with Python</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/OmarDakkak/React-Tetris">
+        <img src="https://img.shields.io/badge/🎮_React_Tetris-Play_Now!-61DAFB?style=for-the-badge" />
+      </a>
+      <br/><sub>Tetris game implemented using ReactJS</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
