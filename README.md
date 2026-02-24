@@ -94,15 +94,24 @@ fun_fact: "NaN3rd = Not a Nerd... or so I keep telling myself 😏"
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarDakkak&theme=tokyonight" alt="Omar's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarDakkak&theme=tokyonight&hide_border=true" alt="Omar's Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Repo" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarDakkak&theme=tokyonight" alt="Omar's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarDakkak&theme=tokyonight&hide_border=true" alt="Omar's Streak Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Repo" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarDakkak&theme=tokyonight" alt="Top Languages by Commit" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarDakkak&theme=tokyonight" alt="Contribution Graph" width="98%" />
