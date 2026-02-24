@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Dakkak;Data+%2F+DevOps+Engineer;AI+Software+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Dakkak;AI+Software+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@
 name: Omar Dakkak
 nickname: NaN3rd
 located_in: Montgeron, Île-de-France, France 🇫🇷
-current_role: Data / DevOps Engineer @ WedR
+current_role: AI Software Engineer @ WedR
 education:
   - EILCO (École d'Ingénieurs du Littoral Côte d'Opale)
   - ENSAH (École Nationale des Sciences Appliquées d'Al Hoceima)
@@ -39,8 +39,10 @@ education:
 favorite_language: Python 🐍
 
 fields_of_interest:
-  - Data Engineering & Data Science
+  - Agentic AI
+  - LLMs
   - DevOps & Cloud Infrastructure
+  - Data Engineering & Data Science
   - Site Reliability Engineering (SRE)
   - Machine Learning
   - Cybersecurity
